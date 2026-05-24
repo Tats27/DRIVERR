@@ -1,5 +1,7 @@
 # DRIVERR
-#Holiii esto dice chat jajaj
+Holiii esto dice chatgpt jajaj
+ES PARA QUE CORRA EN SUS MAQUINAS
+
 
 
 # 🧠 IA Backend - Detector de Fatiga y Distracción del Conductor
